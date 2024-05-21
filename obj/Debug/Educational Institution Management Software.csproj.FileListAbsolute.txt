@@ -1,0 +1,13 @@
+C:\Users\sk058\Desktop\Computer Cours\כיתה יד\C#\Projects\OOP\Educational-Institution-Management-Software\bin\Debug\FinalOOPtr.exe.config
+C:\Users\sk058\Desktop\Computer Cours\כיתה יד\C#\Projects\OOP\Educational-Institution-Management-Software\bin\Debug\FinalOOPtr.exe
+C:\Users\sk058\Desktop\Computer Cours\כיתה יד\C#\Projects\OOP\Educational-Institution-Management-Software\bin\Debug\FinalOOPtr.pdb
+C:\Users\sk058\Desktop\Computer Cours\כיתה יד\C#\Projects\OOP\Educational-Institution-Management-Software\obj\Debug\Educational Institution Management Software.csproj.AssemblyReference.cache
+C:\Users\sk058\Desktop\Computer Cours\כיתה יד\C#\Projects\OOP\Educational-Institution-Management-Software\obj\Debug\Educational Institution Management Software.csproj.SuggestedBindingRedirects.cache
+C:\Users\sk058\Desktop\Computer Cours\כיתה יד\C#\Projects\OOP\Educational-Institution-Management-Software\obj\Debug\FinalOOPtr.BnotTzion_HighSchool.resources
+C:\Users\sk058\Desktop\Computer Cours\כיתה יד\C#\Projects\OOP\Educational-Institution-Management-Software\obj\Debug\FinalOOPtr.StudentsMenagForm.resources
+C:\Users\sk058\Desktop\Computer Cours\כיתה יד\C#\Projects\OOP\Educational-Institution-Management-Software\obj\Debug\FinalOOPtr.Properties.Resources.resources
+C:\Users\sk058\Desktop\Computer Cours\כיתה יד\C#\Projects\OOP\Educational-Institution-Management-Software\obj\Debug\FinalOOPtr.TeamMenagForm.resources
+C:\Users\sk058\Desktop\Computer Cours\כיתה יד\C#\Projects\OOP\Educational-Institution-Management-Software\obj\Debug\Educational Institution Management Software.csproj.GenerateResource.cache
+C:\Users\sk058\Desktop\Computer Cours\כיתה יד\C#\Projects\OOP\Educational-Institution-Management-Software\obj\Debug\Educational Institution Management Software.csproj.CoreCompileInputs.cache
+C:\Users\sk058\Desktop\Computer Cours\כיתה יד\C#\Projects\OOP\Educational-Institution-Management-Software\obj\Debug\FinalOOPtr.exe
+C:\Users\sk058\Desktop\Computer Cours\כיתה יד\C#\Projects\OOP\Educational-Institution-Management-Software\obj\Debug\FinalOOPtr.pdb

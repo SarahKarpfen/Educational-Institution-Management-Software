@@ -1,0 +1,37 @@
+M:\PD\kt-14\Tichnut\c#\sari karpfen\Tars\FinalOOPtr\bin\Debug\FinalOOPtr.exe.config
+M:\PD\kt-14\Tichnut\c#\sari karpfen\Tars\FinalOOPtr\bin\Debug\FinalOOPtr.exe
+M:\PD\kt-14\Tichnut\c#\sari karpfen\Tars\FinalOOPtr\bin\Debug\FinalOOPtr.pdb
+M:\PD\kt-14\Tichnut\c#\sari karpfen\Tars\FinalOOPtr\obj\Debug\FinalOOPtr.csproj.AssemblyReference.cache
+M:\PD\kt-14\Tichnut\c#\sari karpfen\Tars\FinalOOPtr\obj\Debug\FinalOOPtr.Properties.Resources.resources
+M:\PD\kt-14\Tichnut\c#\sari karpfen\Tars\FinalOOPtr\obj\Debug\FinalOOPtr.csproj.GenerateResource.cache
+M:\PD\kt-14\Tichnut\c#\sari karpfen\Tars\FinalOOPtr\obj\Debug\FinalOOPtr.csproj.CoreCompileInputs.cache
+M:\PD\kt-14\Tichnut\c#\sari karpfen\Tars\FinalOOPtr\obj\Debug\FinalOOPtr.exe
+M:\PD\kt-14\Tichnut\c#\sari karpfen\Tars\FinalOOPtr\obj\Debug\FinalOOPtr.pdb
+M:\PD\kt-14\Tichnut\c#\sari karpfen\Tars\FinalOOPtr\obj\Debug\FinalOOPtr.OpenForm.resources
+M:\PD\kt-14\Tichnut\c#\sari karpfen\Tars\FinalOOPtr\obj\Debug\FinalOOPtr.StudentsMenagForm.resources
+E:\סמינר\C#\OOP Project\FinalOOPtr\obj\Debug\FinalOOPtr.csproj.AssemblyReference.cache
+E:\סמינר\C#\OOP Project\FinalOOPtr\obj\Debug\FinalOOPtr.csproj.SuggestedBindingRedirects.cache
+E:\סמינר\C#\OOP Project\FinalOOPtr\obj\Debug\FinalOOPtr.StudentsMenagForm.resources
+E:\סמינר\C#\OOP Project\FinalOOPtr\obj\Debug\FinalOOPtr.Properties.Resources.resources
+E:\סמינר\C#\OOP Project\FinalOOPtr\obj\Debug\FinalOOPtr.csproj.GenerateResource.cache
+E:\סמינר\C#\OOP Project\FinalOOPtr\obj\Debug\FinalOOPtr.csproj.CoreCompileInputs.cache
+E:\סמינר\C#\OOP Project\FinalOOPtr\obj\Debug\FinalOOPtr.exe
+E:\סמינר\C#\OOP Project\FinalOOPtr\obj\Debug\FinalOOPtr.pdb
+E:\סמינר\C#\OOP Project\FinalOOPtr\bin\Debug\FinalOOPtr.exe.config
+E:\סמינר\C#\OOP Project\FinalOOPtr\bin\Debug\FinalOOPtr.exe
+E:\סמינר\C#\OOP Project\FinalOOPtr\bin\Debug\FinalOOPtr.pdb
+E:\סמינר\C#\OOP Project\FinalOOPtr\obj\Debug\FinalOOPtr.BnotTzion_HighSchool.resources
+E:\סמינר\C#\OOP Project\FinalOOPtr\obj\Debug\FinalOOPtr.TeamMenagForm.resources
+C:\Users\sk058\Desktop\Computer Cours\כיתה יד\C#\Projects\OOP\FinalOOPtr\bin\Debug\FinalOOPtr.exe.config
+C:\Users\sk058\Desktop\Computer Cours\כיתה יד\C#\Projects\OOP\FinalOOPtr\bin\Debug\FinalOOPtr.exe
+C:\Users\sk058\Desktop\Computer Cours\כיתה יד\C#\Projects\OOP\FinalOOPtr\bin\Debug\FinalOOPtr.pdb
+C:\Users\sk058\Desktop\Computer Cours\כיתה יד\C#\Projects\OOP\FinalOOPtr\obj\Debug\FinalOOPtr.csproj.AssemblyReference.cache
+C:\Users\sk058\Desktop\Computer Cours\כיתה יד\C#\Projects\OOP\FinalOOPtr\obj\Debug\FinalOOPtr.csproj.SuggestedBindingRedirects.cache
+C:\Users\sk058\Desktop\Computer Cours\כיתה יד\C#\Projects\OOP\FinalOOPtr\obj\Debug\FinalOOPtr.BnotTzion_HighSchool.resources
+C:\Users\sk058\Desktop\Computer Cours\כיתה יד\C#\Projects\OOP\FinalOOPtr\obj\Debug\FinalOOPtr.StudentsMenagForm.resources
+C:\Users\sk058\Desktop\Computer Cours\כיתה יד\C#\Projects\OOP\FinalOOPtr\obj\Debug\FinalOOPtr.Properties.Resources.resources
+C:\Users\sk058\Desktop\Computer Cours\כיתה יד\C#\Projects\OOP\FinalOOPtr\obj\Debug\FinalOOPtr.TeamMenagForm.resources
+C:\Users\sk058\Desktop\Computer Cours\כיתה יד\C#\Projects\OOP\FinalOOPtr\obj\Debug\FinalOOPtr.csproj.GenerateResource.cache
+C:\Users\sk058\Desktop\Computer Cours\כיתה יד\C#\Projects\OOP\FinalOOPtr\obj\Debug\FinalOOPtr.csproj.CoreCompileInputs.cache
+C:\Users\sk058\Desktop\Computer Cours\כיתה יד\C#\Projects\OOP\FinalOOPtr\obj\Debug\FinalOOPtr.exe
+C:\Users\sk058\Desktop\Computer Cours\כיתה יד\C#\Projects\OOP\FinalOOPtr\obj\Debug\FinalOOPtr.pdb
